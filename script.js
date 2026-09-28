@@ -51,7 +51,7 @@ const letters = [
     ]
   },
   {
-    title: "Open when you want to know how much I love you",
+    title: "Open when you want to feel loved",
     icon: "♥",
     preview: "this one is a little longer",
     paragraphs: [
@@ -132,7 +132,7 @@ const letters = [
     ]
   },
   {
-    title: "Open when you wake up and want space",
+    title: "Open when you wake up, want space",
     icon: "☼",
     preview: "goodmorning, sleepy girl",
     paragraphs: [
