@@ -132,7 +132,7 @@ const letters = [
     ]
   },
   {
-    title: "Open when you wake up and I am not there / don't want to talk",
+    title: "Open when you wake up and don't want to talk",
     icon: "☼",
     preview: "goodmorning, sleepy girl",
     paragraphs: [
@@ -143,7 +143,7 @@ const letters = [
         "- Eat something small, as to not upset your stomach.",
         "- Take your meds, make sure to charge your phone / ipad.",
         "- Be kind to yourself today. Take care of yourself while I'm not there, okay? My good girl.",
-      "Now go have a lovely day for me. Have fun with your friends! I'll be happy to know and come back, and see you're doing alright."
+      "Now go have a lovely day for me. Have fun with your friends! I'll be happy to know and see you're doing alright."
     ]
   }
 ];
