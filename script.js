@@ -125,14 +125,14 @@ const letters = [
     icon: "✦",
     preview: "a reminder from someone who sees you",
     paragraphs: [
-      "I know there are probably things about yourself that you wish you could change.",
-      "But I wish you could see yourself through my eyes for a little while. You would see someone worth loving, worth listening to, worth caring for.",
-      "You don't become less deserving of love on the days when you don't feel pretty, confident, or good enough.",
-      "You are still you. And I still adore you. ♡"
+      "I know there are probably things about yourself that you wish you could change. You mention your weight, health, looks, whatever sometimes. Or how people just assume the worst, assume you are just a 'whore egirl', or make fun of your voice.",
+      "But I wish you could see yourself through my eyes. You would see someone worth loving, worth listening to, worth caring for. You'd see how special and important you are to me. You are my beautiful, amazing, stunning, delightful, lovely, wonderful, endearing and perfect little bunny. You are perfect. You are everything.",
+      "You don't become less deserving of love on the days when you don't feel pretty or good enough. I won't love you less if you need space, feel miserable, need extra attention- I love you for you, I care about you for you. Your mind, your personality, you. Not your body, no lustful intent, not superficially.",
+      "You are still you. And I still adore you. My perfect angel, my pretty bunny."
     ]
   },
   {
-    title: "Open when you wake up and don't want to talk",
+    title: "Open when you wake up and want space",
     icon: "☼",
     preview: "goodmorning, sleepy girl",
     paragraphs: [
@@ -143,7 +143,7 @@ const letters = [
         "- Eat something small, as to not upset your stomach.",
         "- Take your meds, make sure to charge your phone / ipad.",
         "- Be kind to yourself today. Take care of yourself while I'm not there, okay? My good girl.",
-      "Now go have a lovely day for me. Have fun with your friends! I'll be happy to know and see you're doing alright."
+      "Now go have a lovely day for me, kiddo. Have fun with your friends! I'll be happy to know and see you're doing alright."
     ]
   }
 ];
