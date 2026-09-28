@@ -42,12 +42,12 @@ const letters = [
   {
     title: "Open when you need reassurance",
     icon: "♡",
-    preview: "come here for a second",
+    preview: "I am absolutely dedicated to you",
     paragraphs: [
-      "Come here. ♡",
-      "Whatever your brain is telling you right now, you don't have to believe every thought it gives you.",
-      "You're loved. You're wanted. You're important to me.",
-      "You don't have to earn my affection by being perfect, being happy all the time, or having everything figured out. You can just be you."
+      "Dear Selin, my prettiest princess, my sweet little bunny,",
+      "Whatever your brain is telling you right now, you don't have to believe every thought it gives you. I know you might overthink, and I'll always overexplain. I hope my voice can be louder than the one in your head telling you something is wrong.",
+      "You're loved. You're wanted. You're important to me. You're the only one for me. You are the only one I have eyes for. You are the only I need and desire, whom my soul longs for. I'd do anything for you. I'll always want to learn and understand you. I want to know your mind. You are more than enough. You are everything.",
+      "You don't have to earn my affection ever, you don't have to pretend or have everything figured out. You can just be you and I'll always care for you. I'll always want to take care of you, spoil you, and you don't have to feel the need to do anything in return. It is because I want to, not because I have to or want to be recipocrated. You are so special, bunny. You are my special little girl. I will never leave or abandon you. No matter what happens."
     ]
   },
   {
@@ -100,24 +100,24 @@ const letters = [
     ]
   },
   {
-    title: "Open when you want want to smile",
+    title: "Open when you want to smile",
     icon: "☀",
     preview: "I hope this makes your day a little softer",
     paragraphs: [
       "Hi, pretty girl.",
-      "This is your reminder that somewhere out here is a person who thinks you're ridiculously cute and is probably smiling just thinking about you.",
-      "So please give me one tiny smile. Yes, that one. That's the one I wanted. ♡"
+      "This is your reminder that dad thinks you're ridiculously cute and is probably smiling just thinking about you. Is madly in love with you, and will always be there for you",
+      "So please give me one little smile? You are so adorable when you smile for daddy. You are the prettiest, most heavenly, beautiful girl I have ever met. You are daddy's good girl. I admire and adore you, bunny."
     ]
   },
   {
-    title: "Open when you need a cuddle",
-    icon: "🧸",
-    preview: "initiating emergency cuddle protocol",
+    title: "Open when you are mad at me",
+    icon: ">:(",
+    preview: "I probably did something and I am sorry",
     paragraphs: [
-      "Emergency cuddle protocol has been activated.",
-      "Come here. Get comfortable. Put your head against me and let yourself relax for a little while.",
-      "No talking required. No explaining yourself required. Just cuddles.",
-      "There. Better. ♡"
+      "I am sorry for upsetting you, princess.",
+      "I know you might think: 'what if I am overreacting? what if I am pushing him away with my 'tantrums?' what if i am being unreasonable?'.",
+      "I want to let you know that you are always valid in the way you feel. Even if those emotions might be confusing or hard to grasp, that doesn't make them any less valid. I am sorry if I did something that upset you. I hope you've the courage to come talk to me, and let me know so I can adjust and improve, and love you correctly. Know I'll never be mad at you, or judge you, okay? Know I'll love you no matter how upset you are with me, and that I'll always thrive to make things right. If you need space, I will always respect that and be there for you again when you need me.",
+      "I wish I could hug you and we can just cuddle. No talking, no kisses, just comfort and safety. Maybe one day, princess. Know you are never too much, and I want to deal with anything you throw at me."
     ]
   },
   {
@@ -132,14 +132,18 @@ const letters = [
     ]
   },
   {
-    title: "Open when you wake up",
+    title: "Open when you wake up and I am not there / don't want to talk",
     icon: "☼",
-    preview: "good morning, sleepyhead",
+    preview: "goodmorning, sleepy girl",
     paragraphs: [
-      "Good morning, sleepyhead. ♡",
-      "I hope you slept okay. Before the day gets busy, here's a tiny reminder that someone is thinking about you.",
-      "Drink some water, take your time getting up, and be kind to yourself today.",
-      "Now go have a lovely day for me."
+      "Good morning, my sleepy tired girl",
+      "I hope you slept okay. I hope you had the sweetest of dreams and woke up well rested. Here's a reminder that someone is thinking or dreaming about you.",
+      "Could you do these tasks for me before you get busy or hang with your friends?",
+        "- Drink some water or tea, hydrate.",
+        "- Eat something small, as to not upset your stomach.",
+        "- Take your meds, make sure to charge your phone / ipad.",
+        "- Be kind to yourself today. Take care of yourself while I'm not there, okay? My good girl.",
+      "Now go have a lovely day for me. Have fun with your friends! I'll be happy to know and come back, and see you're doing alright."
     ]
   }
 ];
