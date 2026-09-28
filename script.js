@@ -55,7 +55,7 @@ const letters = [
     icon: "♥",
     preview: "this one is a little longer",
     paragraphs: [
-      "I don't think I could fit the entire answer onto one little page. But i'll try",
+      "I don't think I could fit the entire answer onto one little page. But i'll try: my heart beats in my chest for you.",
       "I love the little things about you. The things you probably don't even realize I notice. The way you talk and formulate your sentences, the things you get excited about, your silly moments and 'awesome sauces', your sleepy moments and voice, the moments when we are so close and connect our minds, and the moments where i get to take care of my little girl, or the moments where you are in a mood and get all pouty. When i get to cheer you up. I love learning your mind. All those tiny pieces that make you you. I love you always: the good, the bad, the miserable.",
       "I love being able to know you. Spend time with you. Hear your laugh, your cries, your voice. I am so lucky to have met you.",
       "And if you ever wonder whether you're loved, come back here.",
