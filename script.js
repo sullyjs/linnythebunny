@@ -1,8 +1,4 @@
 /*
-  OPEN WHEN WEBSITE
-  -----------------
-  To personalize this website, edit the "letters" array below.
-  Each letter has:
     title: what appears on the envelope
     icon: the little symbol
     preview: small text on the envelope
@@ -11,13 +7,14 @@
 
 const letters = [
   {
-    title: "Open when you miss me",
+    title: "Open when you miss me / feel needy",
     icon: "♡",
     preview: "for when you wish I were there",
     paragraphs: [
-      "I wish I could be there with you right now. I know a screen isn't the same as having me beside you, but I hope this can be a tiny reminder that I'm still here.",
-      "Imagine me pulling you into a big hug, letting you get comfortable against me, and just staying there with you for as long as you need.",
-      "Until I can actually do that, you can always come back here and steal a little bit of me. ♡"
+      "I wish I could be there with you right now. I would kiss your forehead, your cute nose, your cheeks, and maybe a little one on the lips if you want it. I'd tell you how pretty you are. My sweet girl.", 
+      "I know a screen isn't the same as having me beside you, but I hope serves as a reminder that I'm still here. I still care for you and I fantasise about the day I can come take care of you. Take all the worries from your mind.",
+      "Imagine me pulling you into bed, holding you close, letting you get comfortable against me, and you can just stay there with me for as long as you need. I will run my fingers through your hair, and make you feel safe.",
+      "Until I can actually do that, you can always come back here and fantasise with me. I will never leave or abandon you, little bunny. I promise. I'll always be the there for you. Even if I can't physically right now."
     ]
   },
   {
@@ -25,21 +22,21 @@ const letters = [
     icon: "☁",
     preview: "you don't have to be okay",
     paragraphs: [
-      "Hey, baby.",
-      "You don't have to fix everything right now. You don't have to pretend you're okay for me either. It's okay to have bad days.",
-      "Take a breath, get yourself somewhere comfortable, and be gentle with yourself for a little while.",
-      "I'm proud of you for making it this far today. Even if today wasn't a good one, you still deserve kindness. ♡"
+      "Hey, baby. My poor little girl.",
+      "You don't have to fix everything right now. You don't have to pretend you're okay for anyone. It's okay to have bad days. To be miserable, to just wanna play games and spend time with friends. To want some time away from dad, to not like me as much today.",
+      "Just remember to take care of yourself while I am not there to do it for you. I wish I was: we could cuddle, take naps, watch movies, doomscroll through tiktok. Or you could do that, and I'll be around just in case you need a little more attention. I'd make your favourite snacks, I'd tend to you, and take care of everything. So you can shut your mind off and just let me take over.",
+      "I'm proud of you for making it this far today. Even if today wasn't a good one, you still deserve kindness. So remember to be kind and gentle with yourself, alright? You're my good girl. I'll love you on the good and bad days."
     ]
   },
   {
     title: "Open when you can't sleep",
     icon: "☾",
-    preview: "a tiny goodnight from me",
+    preview: "little goodnight for a little girl",
     paragraphs: [
-      "Can't sleep, hm?",
-      "Then imagine I'm right there beside you. Get yourself comfy, close your eyes, and pretend I'm playing with your hair while you slowly drift off.",
-      "You don't need to do anything right now. Just rest.",
-      "Goodnight, sweetheart. Sleep well. I'll be here when you wake up. 🌙"
+      "Can't sleep, little bunny?",
+      "Then imagine I'm right there beside you. Get yourself comfy, close your eyes, and pretend I'm playing with your hair while you slowly drift off. You can cling onto dad and suck on his thumb. Or i could spoon you while you are cuddling your stuffies. Read you a bedtime story, and protect you, make you feel safe.",
+      "You don't need to do anything right now. Just rest. I am sorry that tonight is rough. I wish i was right there next to you. You're my good girl. My everything, my universe.",
+      "Goodnight, sweetheart. Sleep well. Have the sweetest of dreams. I'll be here when you wake up. I am yours. 🌙"
     ]
   },
   {
